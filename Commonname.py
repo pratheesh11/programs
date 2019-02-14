@@ -1,14 +1,30 @@
-a=input()
+#include <stdio.h>
 
-b=input()
+#include <string.h>
 
-c=list(b)
+int main(int arg, char *argv[])
 
-d=0
+{
 
-while a>0:
+ size_t maxlen = 0, leng;
 
-    print(c[d],end="")
+ int j;
 
-    d=d+1
-a=a-1
+ int longest;
+
+ for (j = 1; j < arg; j++) 
+
+  {
+
+  len = strlen(argv[j]);
+
+  if (leng>maxlen) 
+
+  longest = argv[j];
+
+ }
+
+printf("longest string is %s. \n", longest);
+
+return 0;
+}
