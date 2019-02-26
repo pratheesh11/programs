@@ -1,5 +1,6 @@
 #prathu
 #pratheesh
+#mmmmm
 a=list(input())
 b=list(input())
 c=len(a)
