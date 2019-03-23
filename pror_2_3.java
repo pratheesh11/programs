@@ -1,4 +1,3 @@
-#pratheesh 
 
 	 import java.util.Scanner;
 
