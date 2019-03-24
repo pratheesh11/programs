@@ -1,4 +1,5 @@
 #pratheesh
+#juu
 importsys, string, math
 n,k = input().split()
 n,k = int(n), int(k)
