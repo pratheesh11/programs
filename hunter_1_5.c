@@ -1,4 +1,4 @@
-#pratheesh
+pratheesh
 #include<stdio.h>
 int main()
 {
